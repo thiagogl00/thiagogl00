@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Thiago 👋
 
-<!--
-**thiagogl00/thiagogl00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
+Sou estudante de Ciência da Computação e estou em constante evolução no mundo do desenvolvimento. Busco transformar curiosidade em soluções práticas, explorando como a lógica e a programação podem impactar positivamente o dia a dia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente focado em
+
+- **Linguagens e Ferramentas:** Iniciando meus estudos em Docker  
+- **Foco Técnico:** Aprofundando conhecimentos em javascript e Docker  
+- **Objetivos de curto prazo:** Desenvolver meus primeiros projetos próprios e começar a contribuir com a comunidade
+
+---
+
+## 🤝 Vamos nos conectar?
+
+- **LinkedIn:** https://www.linkedin.com/in/thiago-yuji-4a8342404/
+---
+
+> *"O código é apenas o meio; o verdadeiro impacto está no que você escolhe construir com ele."*
