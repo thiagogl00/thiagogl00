@@ -15,7 +15,7 @@ Sou estudante de *Ciência da Computação* e estou em constante evolução no m
 
 ## 🤝 Vamos nos conectar?
 
-- **LinkedIn:** https://www.linkedin.com/in/thiago-yuji-4a8342404/
+- https://www.linkedin.com/in/thiago-ichikawa-b70323410
 ---
 
 > *"O código é apenas o meio; o verdadeiro impacto está no que você escolhe construir com ele."*
