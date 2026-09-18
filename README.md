@@ -1,21 +1,41 @@
-# Olá! Eu sou Thiago 👋
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## 👨‍💻 Sobre mim
-Sou estudante de *Ciência da Computação* e estou em constante evolução no mundo do desenvolvimento. Busco transformar curiosidade em soluções práticas, explorando como a lógica e a programação podem impactar positivamente o dia a dia.
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagogl00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago yuji github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogl00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </div>
+</div>
+<br>
 
----
-
-## 🚀 Atualmente focado em
-
-- **Linguagens e Ferramentas:** Iniciando meus estudos em *Docker*  
-- **Foco Técnico:** Aprofundando conhecimentos em *Javascript* e *Teste de Software*  
-- **Objetivos de curto prazo:** Desenvolver meus primeiros projetos próprios e começar a contribuir com a comunidade
-
----
-
-## 🤝 Vamos nos conectar?
-
-- https://www.linkedin.com/in/thiago-ichikawa-b70323410
----
-
-> *"O código é apenas o meio; o verdadeiro impacto está no que você escolhe construir com ele."*
+<div  align="center">
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="cod.gif">
+    <h2 align="center">Main Skills</h2>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="java.png">
+    <img align="center" height="30" width="40" alt="python-icon" src="python.png">
+    <img align="center" height="30" width="40" alt="android-icon" src="android.png">
+   </div>
+    
+  
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  
+  <h1 align="center">Redes Sociais</h1>
+  <div align="center">
+    <a href = "https://www.linkedin.com/in/thiago-ichikawa-b70323410/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/thyuj.i/">
+      <img width="25" src="instagram.png">
+    </a>
+  </div>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
